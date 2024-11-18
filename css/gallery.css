@@ -1,0 +1,16 @@
+img {
+  max-width: 100%;
+}
+
+.gallery img {
+  border: 10px solid #a82c48;
+  padding: 5px;
+  width: 100%;
+  cursor: pointer;
+}
+#gallery-modal .modal-img {
+  width: 100%;
+}
+.gallery-item:hover {
+  box-shadow: 20px 20px 20px #05ec2f;
+}
